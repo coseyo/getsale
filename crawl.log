@@ -1,0 +1,20 @@
+2015/08/30 15:57:59 [I] start
+2015/08/30 15:58:08 [I] page maxout
+2015/08/30 15:58:13 [I] end
+2015/08/30 16:02:26 [I] start
+2015/08/30 16:02:36 [I] page maxout, page:1
+2015/08/30 16:02:38 [I] end
+2015/08/30 16:07:16 [I] start
+2015/08/30 16:07:29 [I] page maxout, page:1
+2015/08/30 16:07:30 [I] end
+2015/08/30 16:11:29 [I] start
+2015/08/30 16:24:33 [E] postHtml%!(EXTRA *net.OpError=WSARecv tcp 192.168.1.6:61276: An existing connection was forcibly closed by the remote host.)
+2015/08/30 16:24:37 [I] end
+2015/08/30 16:32:23 [I] start
+2015/08/30 16:32:33 [I] get page 1
+2015/08/30 16:32:42 [I] get page 2
+2015/08/30 16:32:52 [I] get page 3
+2015/08/30 16:33:01 [I] get page 4
+2015/08/30 16:33:10 [I] get page 5
+2015/08/30 16:33:10 [I] page maxout, page:5
+2015/08/30 16:33:13 [I] end
